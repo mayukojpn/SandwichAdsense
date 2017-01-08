@@ -1,0 +1,93 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-01-08 18:05+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: firsth3tagadsense.php:45 firsth3tagadsense.php:46
+#: firsth3tagadsense.php:59
+msgid "Sandwich Adsense"
+msgstr ""
+
+#: firsth3tagadsense.php:59
+#, php-format
+msgid "(Version %s)"
+msgstr ""
+
+#: firsth3tagadsense.php:60
+msgid "Adsense Code Setting"
+msgstr ""
+
+#: firsth3tagadsense.php:64
+msgid "Target tag"
+msgstr ""
+
+#: firsth3tagadsense.php:70
+msgid "Target tag order"
+msgstr ""
+
+#: firsth3tagadsense.php:72
+msgid "1st"
+msgstr ""
+
+#: firsth3tagadsense.php:73
+msgid "2nd"
+msgstr ""
+
+#: firsth3tagadsense.php:74
+msgid "3rd"
+msgstr ""
+
+#: firsth3tagadsense.php:76
+msgid "Ad place from Tag"
+msgstr ""
+
+#: firsth3tagadsense.php:78
+msgid "above"
+msgstr ""
+
+#: firsth3tagadsense.php:79
+msgid "under"
+msgstr ""
+
+#: firsth3tagadsense.php:81 firsth3tagadsense.php:83
+#, php-format
+msgid "Ad Code (%s)"
+msgstr ""
+
+#: firsth3tagadsense.php:81
+msgid "PC"
+msgstr ""
+
+#: firsth3tagadsense.php:83
+msgid "mobile"
+msgstr ""
+
+#: firsth3tagadsense.php:86
+msgid "Save"
+msgstr ""
+
+#: firsth3tagadsense.php:86
+#, php-format
+msgid "This Plugin made by Minoru Wada @mon8co(%s)"
+msgstr ""

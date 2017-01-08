@@ -169,4 +169,8 @@ class FirstH3TagAdsense {
 	    	delete_option('adsense_seting');
 	}
 }
-?>
+
+function firsth3tagadsense_load_theme_textdomain() {
+	load_theme_textdomain( 'firsth3tagadsense', get_template_directory() . '/languages' );
+}
+add_action( 'after_setup_theme', 'firsth3tagadsense_load_theme_textdomain' );
